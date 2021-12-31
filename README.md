@@ -7,9 +7,9 @@
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=ffcd1e&labelColor=ff008e" alt="License">
   
-  <img src="https://img.shields.io/github/forks/EriikGabriel/NLW-Heat-Web?label=forks&message=MIT&color=ffcd1e&labelColor=ff008e" alt="Forks">     
+  <img src="https://img.shields.io/github/forks/EriikGabriel/NLW-Heat-Node?label=forks&message=MIT&color=ffcd1e&labelColor=ff008e" alt="Forks">     
 
-  <img src="https://img.shields.io/github/stars/EriikGabriel/NLW-Heat-Web?label=stars&message=MIT&color=ffcd1e&labelColor=ff008e" alt="Stars">
+  <img src="https://img.shields.io/github/stars/EriikGabriel/NLW-Heat-Node?label=stars&message=MIT&color=ffcd1e&labelColor=ff008e" alt="Stars">
 </p>
 
 
